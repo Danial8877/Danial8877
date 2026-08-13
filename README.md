@@ -32,24 +32,6 @@
 
 <br/>
 
-<table align="center" width="90%">
-<tr>
-<td >
-
-## 🧑‍💻 About Me  
-
-- 🔭 **Senior Web Programmer** with **3+ years** of professional experience
-- 💎 Expert in building **Full-Stack** applications with modern technologies
-- 🌱 Currently mastering **NestJS** & **Cloud-Native Architecture**
-- 🎯 2025 Goal: Launch a **SaaS product** & contribute to **open-source**
-- ⚡ I'm **17 years old** - proving passion beats age!
-- 📍 Based in **Tehran, Iran**
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
