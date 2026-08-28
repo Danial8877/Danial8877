@@ -62,16 +62,6 @@
   </picture>
 </p>
 
-## 🏆 Achievements
-
-<div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <p>
-    🥇 Pair Extraordinaire • 🥈 Pull Shark • 🥉 Starstruck • 
-    🏅 Quickdraw • 🎖️ YOLO • 🔥 Heart On Your Sleeve
-  </p>
-</div>
-
 ---
 
 <div align="center">
